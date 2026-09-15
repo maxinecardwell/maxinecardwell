@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Maxine</h1>
-<h3 align="center">A CFG student from planet earth</h3>
+<h3 align="center">CFG student</h3>
 
 - 🔭 I’m currently working on **CFG coursework**
 
